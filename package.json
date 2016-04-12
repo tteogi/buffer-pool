@@ -1,0 +1,26 @@
+{
+  "name": "buffer-pool",
+  "version": "0.0.1",
+  "description": "node.js Buffer Pool",
+  "author": { "name": "tteogi", "email": "mujige77@naver.com"},
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tteogi/buffer-pool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tteogi/buffer-pool/issues"
+  },
+  "main": "bufferPool",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": { "node": ">= 4.0.0" },
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
+  "keywords": ["buffer", "pool"]
+}
