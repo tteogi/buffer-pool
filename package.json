@@ -1,6 +1,6 @@
 {
   "name": "buffer-pool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node.js Buffer Pool",
   "author": { "name": "tteogi", "email": "mujige77@naver.com"},
   "contributors": [
@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/tteogi/buffer-pool/issues"
   },
-  "main": "bufferPool",
+  "main": "./lib/bufferPool",
   "dependencies": {
   },
   "devDependencies": {
